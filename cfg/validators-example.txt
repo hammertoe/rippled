@@ -59,11 +59,11 @@
 #          do not sufficiently overlap with the list(s) used by others.
 #          See: https://arxiv.org/pdf/1802.07242.pdf
 
-[validator_list_sites]
-https://vl.ripple.com
+# [validator_list_sites]
+# https://vl.example.com
 
-[validator_list_keys]
-ED2677ABFFD1B33AC6FBC3062B71F1E8397C1505E1C42C64D11AD1B28FF73F4734
+# [validator_list_keys]
+# ED2677ABFFD1B33AC6FBC3062B71F1E8397C1505E1C42C64D11AD1B28FF73F4734
 
 # To use the XRP test network (see https://ripple.com/build/xrp-test-net/),
 # use the following configuration instead:
